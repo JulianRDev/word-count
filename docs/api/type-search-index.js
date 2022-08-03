@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.tlg.learning.wordcount","l":"Main"},{"p":"com.tlg.learning.wordcount","l":"WordCounter"}]
